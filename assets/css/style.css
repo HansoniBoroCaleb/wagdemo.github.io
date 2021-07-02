@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #074216;
 }
 
 a {
@@ -319,7 +319,7 @@ section {
 
 
 
-#footer .social-links a {
+.social-links a {
   font-size: 18px;
   display: inline-block;
   background: #074216;
@@ -338,4 +338,13 @@ section {
   background: #057221;
   color: #fff;
   text-decoration: none;
+}
+
+
+.cta-button {
+  margin-bottom: 15px;
+}
+
+.social-cta {
+  margin-bottom: 15px;
 }
