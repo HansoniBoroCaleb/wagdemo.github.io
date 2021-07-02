@@ -334,7 +334,7 @@ section {
   transition: 0.3s;
 }
 
-#footer .social-links a:hover {
+.social-links a:hover {
   background: #057221;
   color: #fff;
   text-decoration: none;
